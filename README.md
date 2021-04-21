@@ -21,7 +21,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasbiondo&show_icons=true&theme=dark&locale=en&layout=compact" alt="eliasbiondo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasbiondo&show_icons=true&theme=dark&locale=en" alt="eliasbiondo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasbiondo&theme=dark" alt="eliasbiondo" /></p>
 
