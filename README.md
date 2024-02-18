@@ -1,1 +1,1 @@
-I make big apps for big companies :)
+I make amazing apps for amazing companies :)
